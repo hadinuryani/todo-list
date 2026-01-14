@@ -48,7 +48,7 @@ nav ul li a:hover {
 }
 .container-view {
   padding-top: 60px;
-  height: 100dvh;
+  height: 100vh;
   background: linear-gradient(to right bottom, #5fcdd9, #04bfad, #04bf9d);
   display: flex;
   justify-content: space-between;
