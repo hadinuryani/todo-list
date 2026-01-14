@@ -63,5 +63,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(3001, () => {
-  console.log("Server berjalan di http://localhost:3001");
+  console.log("Server nyala di http://localhost:3001");
 });
