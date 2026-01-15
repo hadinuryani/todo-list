@@ -13,7 +13,6 @@ const server = http.createServer((req, res) => {
     });
   }
 
-
   else if (req.url.startsWith("/public/")) {
     const filePath = path.join(__dirname, req.url);
     const ext = path.extname(filePath);
